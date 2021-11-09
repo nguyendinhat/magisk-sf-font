@@ -28,6 +28,3 @@ Devices: Samsung Galaxy S9, Xiaomi Redmi 5 Plus
 ## Changelog 
 ### Version: 1.0 
 - First release
-
-## Thanks to
-- [pirasalbe](https://github.com/pirasalbe)
